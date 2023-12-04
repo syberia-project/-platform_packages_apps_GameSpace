@@ -81,4 +81,15 @@
     <string name="notification_mode_reticker">Бегущая строка</string>
     <string name="notification_mode_danmaku">Danmaku</string>
 
+    <string name="in_game_calls_title">Звонок во время игры</string>
+    <string name="in_game_calls_no_action">Нет действия</string>
+    <string name="in_game_calls_auto_answer">Снять трубку</string>
+    <string name="in_game_calls_auto_reject">Сбросить</string>
+    <string name="in_game_calls_received_number">Принят звонок с %1$s</string>
+    <string name="in_game_calls_rejected_number">Отклонён звонок с %1$s</string>
+
+    <!-- Danmaku Notification Mode -->
+    <string name="danmaku_notification_mode_title">Уведомления в стиле Danmaku</string>
+    <string name="danmaku_notification_mode_summary">Показывать уведомелнеи в виде бегущей строки, пока игра активна</string>
+
 </resources>
